@@ -20,5 +20,4 @@ Además de mi experiencia en desarrollo y bases de datos, tengo formación en se
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker">
-  <img src="https://assets-global.website-files.com/5fdbd16c14d72d01a4cf4d6a/6012c1bb0b7257c920c1a5a8_render_seo.png" width="50" title="Render">
 </p>
