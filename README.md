@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">¡Hola! Soy Gustavo
 
 ## 🌟 **¿Quien Soy?**  
-Soy Ingeniero en Sistemas de Información y **Fullstack developer**, con experiencia en desarrollo de software y bases de datos. Me apasiona la tecnología y la innovación. También realizo contenido multimedia en las redes sociales. Me encanta aprender y compartir conocimientos con la comunidad.
+Soy Ingeniero en Sistemas de Información y **Full Stack Developer**, con experiencia en desarrollo de software y bases de datos. Me apasiona la tecnología y la innovación. También realizo contenido multimedia en las redes sociales. Me encanta aprender y compartir conocimientos con la comunidad.
 ## 📚 **Habilidades**
 Además de mi experiencia en desarrollo y bases de datos, tengo formación en seguridad informática y análisis forense digital. He trabajado en auditoría de sistemas y optimización de bases de datos, aplicando medidas para garantizar la integridad y seguridad de la información. Disfruto crear soluciones innovadoras y contribuir al crecimiento tecnológico. 🚀
 
@@ -21,6 +21,8 @@ Además de mi experiencia en desarrollo y bases de datos, tengo formación en se
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker">
 </p>
+
+Manejo tambien otras herramientas y tecnologías como: Photoshop, Illustrator, Premiere Pro, After Effects, Audacity, OBS Studio, entre otras. Me encanta aprender y mejorar mis habilidades en el campo de la tecnología y la creación de contenido.
 
 ## Proyectos y colaboraciones 
 
