@@ -21,3 +21,15 @@ Además de mi experiencia en desarrollo y bases de datos, tengo formación en se
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker">
 </p>
+
+## Proyectos y colaboraciones 
+
+Proximamente
+
+## <b> ¿Cómo contactarme?</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align="center">
+  <a href="mailto:gustavo_galdeano@yahoo.com.ar"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRocTVxbWdkZzg2aXpjdDMyNHRxcWZ3dHFyOGtoOHBiNHJkNmYyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nOwaf4VgL3WTZH8OYl/giphy.gif" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gustavo-galdeano-9b915b18"><img src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" alt="LinkedIn"></a>
+</div>
+
