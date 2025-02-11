@@ -36,13 +36,11 @@ Proximamente
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRocTVxbWdkZzg2aXpjdDMyNHRxcWZ3dHFyOGtoOHBiNHJkNmYyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nOwaf4VgL3WTZH8OYl/giphy.gif" width="50" alt="Email">
   </a>
   <br>
-  <b>Correo: gustavo_galdeano@yahoo.com.ar</b>
+  <b><a href="mailto:gustavo_galdeano@yahoo.com.ar">gustavo_galdeano@yahoo.com.ar</a></b>
   <br><br>
   <a href="https://www.linkedin.com/in/gustavo-galdeano-9b915b18">
     <img src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" width="50" alt="LinkedIn">
   </a>
   <br>
-  <b>LinkedIn</b>
+  <b><a href="https://www.linkedin.com/in/gustavo-galdeano-9b915b18">LinkedIn</a></b>
 </div>
-
-
