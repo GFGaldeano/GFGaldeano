@@ -2,8 +2,13 @@
 
 ## 🌟 **¿Quien Soy?**  
 Soy Ingeniero en Sistemas de Información y **Full Stack Developer**, con experiencia en desarrollo de software y bases de datos. Me apasiona la tecnología y la innovación. También realizo contenido multimedia en las redes sociales. Me encanta aprender y compartir conocimientos con la comunidad.
+
+---
+
 ## 📚 **Habilidades**
 Además de mi experiencia en desarrollo y bases de datos, tengo formación en seguridad informática y análisis forense digital. He trabajado en auditoría de sistemas y optimización de bases de datos, aplicando medidas para garantizar la integridad y seguridad de la información. Disfruto crear soluciones innovadoras y contribuir al crecimiento tecnológico. 🚀
+
+---
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FpNmhtaGthZHZlNncxYjRzdGFlNnV1M2kwbG5nc3hqOW1xbDR4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" width="35"> **Tecnologías y herramientas que uso**
 
@@ -34,9 +39,9 @@ Además de mi experiencia en desarrollo y bases de datos, tengo formación en se
 
 Manejo tambien otras herramientas y tecnologías como: Photoshop, Illustrator, Premiere Pro, After Effects, Audacity, OBS Studio, entre otras. Me encanta aprender y mejorar mis habilidades en el campo de la tecnología y la creación de contenido.
 
-## Proyectos y colaboraciones 
+---
 
-Ver "Popular repositories"
+## 🚀 **Proyectos y colaboraciones**
 
 ### 🎬 [Henry-Movie-Web](https://github.com/GFGaldeano/Henry-Movie-Web)  
 > **Emulador de una página de streaming.**  
@@ -44,6 +49,8 @@ Ver "Popular repositories"
 > - 📽️ **Características**:  Catálogo de películas mostrando toda la información correspondiente a su nombre, año, director, género, imagen de la película, etc. Breve historia del cine.  
 
 ---
+
+## 📡 **¿Cómo contactarte conmigo?**  
 
 <div align="center">
   <a href="mailto:gustavo_galdeano@yahoo.com.ar">
