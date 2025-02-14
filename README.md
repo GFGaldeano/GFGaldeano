@@ -43,6 +43,13 @@ Manejo tambien otras herramientas y tecnologías como: Photoshop, Illustrator, P
 
 ## 🚀 **Proyectos y colaboraciones**
 
+### ⚡ [FitManager](https://github.com/GFGaldeano/FitManager)  
+> **Gestión web de gimnasios.**  
+> - ⚙️ **Tecnologías**: React, Next Js, Tailwind, Nest Js, TypeORM, TypeSript, Multer, Cloudinary, Jest, PostgreSQL, Swagger, Docker, Render, Vercel, Chatbot (Tidio), Google Maps, Google Auth, Stripe, Mercado Pago, Brevo.
+> - ✨ **Características**:  Sistema que gestiona a los socios de gimnasios. Servicio personalizado hacia los socios. Pagos online. Generación de rutinas de ejercicios segun el nivel de entrenamiento del socio. Chatbot que responde a consultas de los socios y no socios. Servicio de notificaciones automatizadas vía mail. Integración con Google Maps para la ubicación de los gimnasios. Integración con Google Auth para la autenticación de los socios. Integración con Stripe y Mercado Pago para los pagos online. Integración con Brevo para el envío de correos electrónicos.
+
+---
+
 ### ⚡ [Ecommerce-backend](https://github.com/GFGaldeano/Ecommerce-backend)  
 > **Proyecto BACKEND de un sistema ecommerce de gestión de inventario y compras en línea.**  
 > - ⚙️ **Tecnologías**: Nest Js, TypeORM, TypeSript, Multer, Cloudinary, Jest, PostgreSQL, Swagger, Docker, Render.
