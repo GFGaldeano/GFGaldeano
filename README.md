@@ -43,6 +43,13 @@ Manejo tambien otras herramientas y tecnologías como: Photoshop, Illustrator, P
 
 ## 🚀 **Proyectos y colaboraciones**
 
+### 🍟 [Sweet-Dreams-Resto](https://github.com/GFGaldeano/Sweet-Dreams-Resto) 🍗🥩🍚🥗🍺🍷🥤 
+> **Sistema para gestionar reservas en restaurante.**  
+> - ⚙️ **Tecnologías**: TypeScript, PostgreSQL, Express, React & Vite
+> - 🎯 **Características**:  Gestión de reserva de mesas y atención al cliente vía online.  
+
+---
+
 ### 🎬 [Henry-Movie-Web](https://github.com/GFGaldeano/Henry-Movie-Web)  
 > **Emulador de una página de streaming.**  
 > - ⚙️ **Tecnologías**: JavaScript, HTML, CSS, Bootstrap, Express, MongoDB y Mongoose
