@@ -43,6 +43,13 @@ Manejo tambien otras herramientas y tecnologías como: Photoshop, Illustrator, P
 
 ## 🚀 **Proyectos y colaboraciones**
 
+### ⚡ [Ecommerce-backend](https://github.com/GFGaldeano/Ecommerce-backend)  
+> **Proyecto BACKEND de un sistema ecommerce de gestión de inventario y compras en línea.**  
+> - ⚙️ **Tecnologías**: Nest Js, TypeORM, TypeSript, Multer, Cloudinary, Jest, PostgreSQL, Swagger, Docker, Render.
+> - ✨ **Características**:  Backend de un sistema ecommerce testeado con Open Api Swagger.  
+
+---
+
 ### 🍟 [Sweet-Dreams-Resto](https://github.com/GFGaldeano/Sweet-Dreams-Resto) 🍗🥩🍚🥗🍺🍷🥤 
 > **Sistema para gestionar reservas en restaurante.**  
 > - ⚙️ **Tecnologías**: TypeScript, PostgreSQL, Express, React & Vite
